@@ -8,11 +8,14 @@ require (
 	github.com/golang/protobuf v1.3.2
 	github.com/google/uuid v1.1.1
 	github.com/hashicorp/go-multierror v1.0.0
-	github.com/ipfs/go-cid v0.0.3
+	github.com/ipfs/go-cid v0.0.4
 	github.com/ipfs/go-datastore v0.1.1
 	github.com/ipfs/go-ipld-format v0.0.2
-	github.com/libp2p/go-libp2p-core v0.2.3
-	github.com/multiformats/go-multiaddr v0.1.1
+	github.com/libp2p/go-libp2p-crypto v0.0.2
+	github.com/libp2p/go-libp2p-host v0.0.3
+	github.com/libp2p/go-libp2p-peer v0.1.1
+	github.com/libp2p/go-libp2p-protocol v0.0.1
+	github.com/multiformats/go-multiaddr v0.0.4
 	github.com/multiformats/go-multibase v0.0.1
 	golang.org/x/crypto v0.0.0-20190926180335-cea2066c6411
 	golang.org/x/net v0.0.0-20191014212845-da9a3fd4c582 // indirect

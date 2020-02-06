@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	extra "github.com/agl/ed25519/extra25519"
-	ic "github.com/libp2p/go-libp2p-core/crypto"
+	ic "github.com/libp2p/go-libp2p-crypto"
 	"golang.org/x/crypto/nacl/box"
 )
 

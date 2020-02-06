@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/ipfs/go-cid"
-	ic "github.com/libp2p/go-libp2p-core/crypto"
-	"github.com/libp2p/go-libp2p-core/peer"
+	ic "github.com/libp2p/go-libp2p-crypto"
+	"github.com/libp2p/go-libp2p-peer"
 	ma "github.com/multiformats/go-multiaddr"
 	sym "github.com/textileio/go-textile-core/crypto/symmetric"
 	"github.com/textileio/go-textile-core/thread"

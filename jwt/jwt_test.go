@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/dgrijalva/jwt-go"
-	"github.com/libp2p/go-libp2p-core/crypto"
+	"github.com/libp2p/go-libp2p-crypto"
 )
 
 var publicKey = "CAESIP1G8uGFpX+iduqgJfKLt0nw870MI9ydHcKg9gDIr5Tb"

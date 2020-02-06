@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	ic "github.com/libp2p/go-libp2p-core/crypto"
+	ic "github.com/libp2p/go-libp2p-crypto"
 	. "github.com/textileio/go-textile-core/crypto/asymmetric"
 )
 
